@@ -1,0 +1,28 @@
+{
+  "type": "object",
+  "required": ["dateJoined", "firstName", "lastName", "email", "password", "areaCode", "country", "phoneNumber"],
+  "properties": {
+    "dateJoined": { "type": "string", "pattern": "([12][0-9]{3}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01]))" },
+    "firstName": { "type": "string", "minLength": 3 },
+    "lastName": { "type": "string", "minLength": 3 },
+    "email": { "type": "string" },
+    "password": { "type": "string" },
+    "areaCode": { "type": "string" },
+    "country": { "type": "string" },
+    "phoneNumber": { "type": "string" }
+  },
+  "additionalProperties": false,
+  "errorMessage": {
+    "required": {
+      "dateJoined": "date is required",
+      "firstName": "first name is required",
+      "lastName": "last Name is required",
+      "email": "email is required",
+      "password": "password is required",
+      "areaCode": "areaCode is required",
+      "country": "country is required",
+      "phoneNumber": "date is required"
+    },
+    "additionalProperties": "SignUp schema is invalid"
+  }
+}

@@ -1,0 +1,12 @@
+
+-add discount start and end date 
+
+-correct toolTip text
+ 
+
+ - refractor css
+ -refractor functions (each component should have it's own function)
+
+
+
+fix reducer objects

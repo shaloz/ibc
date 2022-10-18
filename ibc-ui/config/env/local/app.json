@@ -1,0 +1,13 @@
+{
+    "services": {
+        "geoLocation": {
+            "baseUrl": "https://geolocation-db.com/json"
+        },
+        "verificationSMS": {
+            "baseUrl": "http://localhost:8080/ibeautyconnect/v1/api/phone_verification/verify_phone_number"
+        },
+        "signUp": {
+            "baseUrl": "http://localhost:8081/ibeautyconnect/v1/api/authentication/sign_up"
+        }
+    }
+}

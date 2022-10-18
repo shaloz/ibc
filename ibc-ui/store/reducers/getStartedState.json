@@ -1,0 +1,48 @@
+{
+  "progress": {
+    "stepOne": {
+      "currentStep": 0,
+      "progressTab": [],
+      "verificationStep": {
+        "currentStep": 0,
+        "progressTab": []
+      },
+      "status": "not_started"
+    },
+    "stepTwo": {
+      "currentStep": 0,
+      "progressTab": [],
+      "status": "not_started"
+    },
+    "stepThree": {
+      "currentStep": 0,
+      "progressTab": [],
+      "status": "not_started"
+    }
+  },
+  "data": {
+    "businessPreferences": {
+      "shopLanguage": "",
+      "shopCountry": "",
+      "shopCurrency": ""
+    },
+    "businessName": "",
+    "howYouGetPaid": {
+      "personalDetails": {
+        "personal": {
+          "firstName": "",
+          "lastName": "",
+          "email": "",
+          "birthDate": ""
+        },
+        "address": {
+          "streetAddress": "",
+          "apt_other": "",
+          "postalCode": "",
+          "city": "",
+          "state_province": ""
+        }
+      }
+    }
+  }
+}

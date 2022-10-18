@@ -1,0 +1,12 @@
+when page loads 
+ - user has a business account redirect to seller to business-manager
+ - user has seen the intro page and not opened a seller account, display BusinessSetup component
+ 
+ 
+
+ businessManagerSetupCollection: {
+     businessId: "",
+     hasSeenIntroPage: false,
+     ......the rest (this has to track how the user has progressed in setting up their business account)
+
+ }

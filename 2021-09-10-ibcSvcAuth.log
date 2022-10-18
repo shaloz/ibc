@@ -1,0 +1,8 @@
+2021-09-10T23:03:44.740Z - info: Cache: Provider connected to Redis.
+2021-09-10T23:03:44.750Z - info: Cache: Provider is ready.
+2021-09-10T23:03:44.760Z - error: ibc_dev Db: Database connection failed
+2021-09-10T23:03:44.761Z - error: Application: APP: A fatal error occurred, service failed to start Error: Database connection failed
+2021-09-10T23:08:45.791Z - info: Cache: Provider connected to Redis.
+2021-09-10T23:08:45.795Z - info: Cache: Provider is ready.
+2021-09-10T23:08:45.919Z - error: ibc_dev Db: Database connection failed
+2021-09-10T23:08:45.919Z - error: Application: APP: A fatal error occurred, service failed to start Error: Database connection failed

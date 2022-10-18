@@ -1,0 +1,389 @@
+2021-04-07T12:56:48.997Z - info: Request: ::ffff:127.0.0.1 606b580d2c6f5e05fbca599b HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 173.535 ms
+2021-04-07T13:08:56.479Z - info: Application: User Id 606daee895e53a3b57cfdbf2 signed up successfully. 
+2021-04-07T13:08:56.488Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 109.406 ms
+2021-04-07T13:08:56.616Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 65.314 ms
+2021-04-07T13:09:08.610Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 69.220 ms
+2021-04-07T13:09:56.834Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.563 ms
+2021-04-07T13:16:38.266Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 5.278 ms
+2021-04-07T13:16:50.780Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.058 ms
+2021-04-07T13:16:54.183Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 26.934 ms
+2021-04-07T13:17:16.506Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.195 ms
+2021-04-07T13:17:16.552Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.139 ms
+2021-04-07T13:17:20.064Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.256 ms
+2021-04-07T13:18:23.318Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.778 ms
+2021-04-07T13:18:33.051Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.321 ms
+2021-04-07T13:18:38.182Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.213 ms
+2021-04-07T13:19:28.148Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 3.478 ms
+2021-04-07T13:19:41.236Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 6.697 ms
+2021-04-07T13:20:10.774Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.001 ms
+2021-04-07T13:20:45.774Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.943 ms
+2021-04-07T13:22:22.717Z - info: Request: ::ffff:127.0.0.1 606daee895e53a3b57cfdbf2 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 4.759 ms
+2021-04-07T13:23:12.772Z - info: Application: User Id 606db24095e53a3b57cfdbf3 signed up successfully. 
+2021-04-07T13:23:12.775Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 59.572 ms
+2021-04-07T13:23:12.923Z - info: Request: ::ffff:127.0.0.1 606db24095e53a3b57cfdbf3 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 95.634 ms
+2021-04-07T13:27:37.146Z - info: Request: ::ffff:127.0.0.1 606db24095e53a3b57cfdbf3 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 4.180 ms
+2021-04-07T13:28:06.297Z - info: Application: User Id 606db36695e53a3b57cfdbf4 signed up successfully. 
+2021-04-07T13:28:06.300Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 62.662 ms
+2021-04-07T13:28:06.381Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 52.144 ms
+2021-04-07T13:30:00.821Z - info: Request: ::ffff:127.0.0.1 606db36695e53a3b57cfdbf4 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 48.162 ms
+2021-04-07T13:30:35.900Z - info: Application: User Id 606db3fb95e53a3b57cfdbf5 signed up successfully. 
+2021-04-07T13:30:35.902Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 69.117 ms
+2021-04-07T13:30:35.973Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 46.522 ms
+2021-04-07T13:32:50.488Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:32:50.656Z - info: Cache: Provider is ready.
+2021-04-07T13:32:51.076Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:32:51.084Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:32:53.640Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:32:53.643Z - info: Cache: Provider is ready.
+2021-04-07T13:32:54.175Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:32:54.181Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:32:59.580Z - info: Request: ::ffff:127.0.0.1 606db3fb95e53a3b57cfdbf5 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 82.432 ms
+2021-04-07T13:33:35.849Z - info: Application: User Id 606db4af95e53a3b57cfdbf6 signed up successfully. 
+2021-04-07T13:33:35.851Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 239.329 ms
+2021-04-07T13:33:36.057Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 158.996 ms
+2021-04-07T13:34:10.471Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:34:10.474Z - info: Cache: Provider is ready.
+2021-04-07T13:34:11.046Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:34:11.052Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:34:45.584Z - info: Request: ::ffff:127.0.0.1 606db4af95e53a3b57cfdbf6 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 75.462 ms
+2021-04-07T13:34:48.560Z - info: Request: ::ffff:127.0.0.1 606db4af95e53a3b57cfdbf6 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 2.483 ms
+2021-04-07T13:35:22.180Z - info: Application: User Id 606db51a95e53a3b57cfdbf7 signed up successfully. 
+2021-04-07T13:35:22.181Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 50.907 ms
+2021-04-07T13:35:22.290Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 69.445 ms
+2021-04-07T13:36:51.441Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:36:51.444Z - info: Cache: Provider is ready.
+2021-04-07T13:36:52.041Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:36:52.045Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:36:53.144Z - info: Request: ::ffff:127.0.0.1 606db51a95e53a3b57cfdbf7 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 119.680 ms
+2021-04-07T13:36:57.835Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:36:57.838Z - info: Cache: Provider is ready.
+2021-04-07T13:36:58.361Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:36:58.367Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:36:59.408Z - info: Request: ::ffff:127.0.0.1 606db51a95e53a3b57cfdbf7 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 65.596 ms
+2021-04-07T13:37:10.381Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:37:10.384Z - info: Cache: Provider is ready.
+2021-04-07T13:37:10.920Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:37:10.925Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:37:11.225Z - info: Request: ::ffff:127.0.0.1 606db51a95e53a3b57cfdbf7 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 60.824 ms
+2021-04-07T13:37:38.687Z - info: Request: ::ffff:127.0.0.1 606db51a95e53a3b57cfdbf7 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 52.371 ms
+2021-04-07T13:38:47.644Z - info: Application: User Id 606db5e795e53a3b57cfdbf8 signed up successfully. 
+2021-04-07T13:38:47.647Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 67.218 ms
+2021-04-07T13:38:47.815Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 140.168 ms
+2021-04-07T13:39:03.300Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:39:03.343Z - info: Cache: Provider is ready.
+2021-04-07T13:39:03.930Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:39:03.935Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:39:05.977Z - info: Request: ::ffff:127.0.0.1 606db5e795e53a3b57cfdbf8 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 112.971 ms
+2021-04-07T13:39:09.608Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:39:09.614Z - info: Cache: Provider is ready.
+2021-04-07T13:39:10.250Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:39:10.256Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:40:01.376Z - info: Application: User Id 606db63195e53a3b57cfdbf9 signed up successfully. 
+2021-04-07T13:40:01.377Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 53.025 ms
+2021-04-07T13:40:01.541Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 122.841 ms
+2021-04-07T13:40:27.379Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:40:27.382Z - info: Cache: Provider is ready.
+2021-04-07T13:40:27.944Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:40:27.948Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:40:40.993Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:40:40.998Z - info: Cache: Provider is ready.
+2021-04-07T13:40:41.576Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:40:41.582Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:40:47.181Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 84.186 ms
+2021-04-07T13:40:50.771Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 46.262 ms
+2021-04-07T13:41:25.403Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:41:25.407Z - info: Cache: Provider is ready.
+2021-04-07T13:41:25.971Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:41:25.977Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:41:27.399Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 55.765 ms
+2021-04-07T13:41:30.543Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 43.739 ms
+2021-04-07T13:41:46.678Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:41:46.707Z - info: Cache: Provider is ready.
+2021-04-07T13:41:47.315Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:41:47.320Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:41:50.177Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:41:50.182Z - info: Cache: Provider is ready.
+2021-04-07T13:41:50.738Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:41:50.749Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:41:55.551Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 17.770 ms
+2021-04-07T13:42:18.225Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:42:18.229Z - info: Cache: Provider is ready.
+2021-04-07T13:42:18.901Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:42:18.907Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:42:22.137Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 77.917 ms
+2021-04-07T13:42:26.448Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 49.932 ms
+2021-04-07T13:42:29.234Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 49.173 ms
+2021-04-07T13:46:26.880Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:46:26.886Z - info: Cache: Provider is ready.
+2021-04-07T13:46:27.504Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:46:27.509Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:47:07.919Z - info: Application: User Id 606db7db95e53a3b57cfdbfa signed up successfully. 
+2021-04-07T13:47:07.922Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 58.617 ms
+2021-04-07T13:47:08.027Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 65.104 ms
+2021-04-07T13:47:11.147Z - info: Request: ::ffff:127.0.0.1 606db7db95e53a3b57cfdbfa HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 61.892 ms
+2021-04-07T13:47:25.590Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:47:25.594Z - info: Cache: Provider is ready.
+2021-04-07T13:47:26.138Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:47:26.143Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:47:26.589Z - info: Request: ::ffff:127.0.0.1 606db7db95e53a3b57cfdbfa HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 6.978 ms
+2021-04-07T13:49:09.371Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:49:09.374Z - info: Cache: Provider is ready.
+2021-04-07T13:49:10.071Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:49:10.110Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:49:13.315Z - info: Request: ::ffff:127.0.0.1 606db7db95e53a3b57cfdbfa HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 7.468 ms
+2021-04-07T13:49:42.094Z - info: Application: User Id 606db87695e53a3b57cfdbfb signed up successfully. 
+2021-04-07T13:49:42.097Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 56.056 ms
+2021-04-07T13:49:42.206Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 64.451 ms
+2021-04-07T13:51:35.982Z - info: Request: ::ffff:127.0.0.1 606db87695e53a3b57cfdbfb HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 56.640 ms
+2021-04-07T13:56:11.355Z - info: Request: ::ffff:127.0.0.1 606db87695e53a3b57cfdbfb HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 4.176 ms
+2021-04-07T13:59:25.476Z - info: Cache: Provider connected to Redis.
+2021-04-07T13:59:25.479Z - info: Cache: Provider is ready.
+2021-04-07T13:59:26.117Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T13:59:26.123Z - info: Application: Process started successfully on :::8082
+2021-04-07T13:59:26.438Z - info: Request: ::ffff:127.0.0.1 606db87695e53a3b57cfdbfb HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 10.495 ms
+2021-04-07T13:59:55.035Z - info: Application: User Id 606dbadb95e53a3b57cfdbfc signed up successfully. 
+2021-04-07T13:59:55.037Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 58.969 ms
+2021-04-07T13:59:55.114Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 56.164 ms
+2021-04-07T14:00:44.125Z - info: Request: ::ffff:127.0.0.1 606dbadb95e53a3b57cfdbfc HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 56.060 ms
+2021-04-07T14:01:53.861Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:01:53.904Z - info: Cache: Provider is ready.
+2021-04-07T14:01:54.516Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:01:54.521Z - info: Application: Process started successfully on :::8082
+2021-04-07T14:02:08.160Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:02:08.163Z - info: Cache: Provider is ready.
+2021-04-07T14:02:08.723Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:02:08.728Z - info: Application: Process started successfully on :::8082
+2021-04-07T14:02:09.358Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:02:09.360Z - info: Cache: Provider is ready.
+2021-04-07T14:02:10.144Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:02:10.149Z - info: Application: Process started successfully on :::8082
+2021-04-07T14:09:31.667Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:09:31.670Z - info: Cache: Provider is ready.
+2021-04-07T14:09:32.341Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:09:32.346Z - info: Application: Process started successfully on :::8082
+2021-04-07T14:09:33.463Z - info: Request: ::ffff:127.0.0.1 606dbadb95e53a3b57cfdbfc HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 76.246 ms
+2021-04-07T14:09:59.760Z - info: Application: User Id 606dbd3795e53a3b57cfdbfd signed up successfully. 
+2021-04-07T14:09:59.761Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 47.575 ms
+2021-04-07T14:09:59.905Z - info: Request: ::ffff:127.0.0.1 anonymous HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 500 116.883 ms
+2021-04-07T14:10:48.462Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:10:48.470Z - info: Cache: Provider is ready.
+2021-04-07T14:10:49.019Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:10:49.024Z - info: Application: Process started successfully on :::8082
+2021-04-07T14:17:22.378Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:17:22.381Z - info: Cache: Provider is ready.
+2021-04-07T14:17:22.963Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:17:22.968Z - info: Application: Process started successfully on :::8082
+2021-04-07T14:19:13.601Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:19:13.604Z - info: Cache: Provider is ready.
+2021-04-07T14:19:14.236Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:19:14.241Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:21:30.575Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:21:30.660Z - info: Cache: Provider is ready.
+2021-04-07T14:21:31.756Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:21:31.765Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:21:45.943Z - info: Application: User Id 606dbff9ae60625903b38031 signed up successfully. 
+2021-04-07T14:21:45.948Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 85.222 ms
+2021-04-07T14:21:46.013Z - info: Request: ::ffff:127.0.0.1 606dbff9ae60625903b38031 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 18.389 ms
+2021-04-07T14:23:29.382Z - info: Request: ::ffff:127.0.0.1 606dbff9ae60625903b38031 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 2.131 ms
+2021-04-07T14:23:35.772Z - info: Request: ::ffff:127.0.0.1 606dbff9ae60625903b38031 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.322 ms
+2021-04-07T14:24:30.398Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:24:30.401Z - info: Cache: Provider is ready.
+2021-04-07T14:24:31.082Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:24:31.087Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:24:32.211Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:24:32.216Z - info: Cache: Provider is ready.
+2021-04-07T14:24:33.236Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:24:33.240Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:25:22.985Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:25:22.988Z - info: Cache: Provider is ready.
+2021-04-07T14:25:23.540Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:25:23.545Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:25:34.909Z - info: Request: ::ffff:127.0.0.1 606dbff9ae60625903b38031 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 2.519 ms
+2021-04-07T14:25:55.799Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:25:55.802Z - info: Cache: Provider is ready.
+2021-04-07T14:25:56.412Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:25:56.417Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:26:08.930Z - info: Application: User Id 606dc100b7a99e5972f0c5b4 signed up successfully. 
+2021-04-07T14:26:08.935Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 78.415 ms
+2021-04-07T14:26:08.979Z - info: Request: ::ffff:127.0.0.1 606dc100b7a99e5972f0c5b4 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 4.821 ms
+2021-04-07T14:26:39.985Z - info: Request: ::ffff:127.0.0.1 606dc100b7a99e5972f0c5b4 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.440 ms
+2021-04-07T14:26:49.548Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:26:49.552Z - info: Cache: Provider is ready.
+2021-04-07T14:26:50.341Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:26:50.351Z - info: Application: Process started successfully on :::8082
+2021-04-07T14:26:53.061Z - info: Request: ::ffff:127.0.0.1 606dc100b7a99e5972f0c5b4 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 8.748 ms
+2021-04-07T14:33:01.481Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:33:01.486Z - info: Cache: Provider is ready.
+2021-04-07T14:33:02.096Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:33:02.101Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:33:32.387Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:33:32.390Z - info: Cache: Provider is ready.
+2021-04-07T14:33:33.010Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:33:33.017Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:35:46.653Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 - - ms
+2021-04-07T14:35:46.720Z - error: SignUp Controller: User already exist
+2021-04-07T14:35:46.722Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 400 60.741 ms
+2021-04-07T14:35:48.197Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:35:48.201Z - info: Cache: Provider is ready.
+2021-04-07T14:35:48.757Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:35:48.763Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:35:53.971Z - error: SignUp Controller: User already exist
+2021-04-07T14:35:53.973Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 400 18.571 ms
+2021-04-07T14:36:03.602Z - error: SignUp Controller: User already exist
+2021-04-07T14:36:03.603Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 400 61.775 ms
+2021-04-07T14:36:16.633Z - error: SignUp Controller: User already exist
+2021-04-07T14:36:16.634Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 400 2.119 ms
+2021-04-07T14:37:33.177Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:37:33.180Z - info: Cache: Provider is ready.
+2021-04-07T14:37:33.860Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:37:33.865Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:38:42.131Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:38:42.134Z - info: Cache: Provider is ready.
+2021-04-07T14:38:42.868Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:38:42.873Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:38:56.690Z - error: SignUp Controller: User already exist
+2021-04-07T14:38:56.693Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 400 81.528 ms
+2021-04-07T14:39:11.332Z - info: Application: User Id 606dc40f1c0d7c5ab78aded5 signed up successfully. 
+2021-04-07T14:39:11.335Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 68.503 ms
+2021-04-07T14:39:11.420Z - info: Request: ::ffff:127.0.0.1 606dc40f1c0d7c5ab78aded5 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 21.495 ms
+2021-04-07T14:39:44.177Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:39:44.221Z - info: Cache: Provider is ready.
+2021-04-07T14:39:44.757Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:39:44.761Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:40:22.478Z - info: Application: User Id 606dc456cf02e35ad7f62509 signed up successfully. 
+2021-04-07T14:40:22.483Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 81.092 ms
+2021-04-07T14:40:22.521Z - info: Request: ::ffff:127.0.0.1 606dc456cf02e35ad7f62509 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.371 ms
+2021-04-07T14:42:07.091Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:42:07.094Z - info: Cache: Provider is ready.
+2021-04-07T14:42:07.705Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:42:07.710Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:42:27.818Z - info: Application: User Id 606dc4d313ff215b07915ed9 signed up successfully. 
+2021-04-07T14:42:27.824Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 89.795 ms
+2021-04-07T14:42:27.873Z - info: Request: ::ffff:127.0.0.1 606dc4d313ff215b07915ed9 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 6.786 ms
+2021-04-07T14:43:15.202Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:43:15.230Z - info: Cache: Provider is ready.
+2021-04-07T14:43:15.900Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:43:15.906Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:43:20.505Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:43:20.508Z - info: Cache: Provider is ready.
+2021-04-07T14:43:21.056Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:43:21.061Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:43:22.955Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:43:22.958Z - info: Cache: Provider is ready.
+2021-04-07T14:43:23.524Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:43:23.529Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:44:22.604Z - info: Request: ::ffff:127.0.0.1 606dc4d313ff215b07915ed9 HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.831 ms
+2021-04-07T14:44:49.660Z - info: Application: User Id 606dc5614e49f55b46f9ba3d signed up successfully. 
+2021-04-07T14:44:49.666Z - info: Request: ::1 anonymous HTTP/1.1 POST /ibeautyconnect/v1/api/authentication/sign_up application/json;charset=UTF-8 200 82.239 ms
+2021-04-07T14:44:49.717Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 3.087 ms
+2021-04-07T14:44:52.867Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.598 ms
+2021-04-07T14:44:57.090Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.744 ms
+2021-04-07T14:45:02.758Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.714 ms
+2021-04-07T14:45:05.190Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.650 ms
+2021-04-07T14:45:23.903Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:45:23.907Z - info: Cache: Provider is ready.
+2021-04-07T14:45:24.491Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:45:24.496Z - info: Application: Process started successfully on :::8082
+2021-04-07T14:46:09.919Z - info: Cache: Provider connected to Redis.
+2021-04-07T14:46:09.922Z - info: Cache: Provider is ready.
+2021-04-07T14:46:10.660Z - info: ibc_dev Db: Database connected successfully
+2021-04-07T14:46:10.666Z - info: Application: Process started successfully on :::8081
+2021-04-07T14:49:09.788Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 9.549 ms
+2021-04-07T14:50:29.440Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 3.233 ms
+2021-04-07T14:54:01.067Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.841 ms
+2021-04-07T14:54:07.486Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.597 ms
+2021-04-07T14:54:19.878Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.559 ms
+2021-04-07T15:02:55.731Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 7.669 ms
+2021-04-07T15:06:30.844Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 5.356 ms
+2021-04-07T15:07:40.035Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 5.711 ms
+2021-04-07T15:07:46.054Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 6.129 ms
+2021-04-07T15:07:51.055Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.669 ms
+2021-04-07T15:08:02.406Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.018 ms
+2021-04-07T15:08:05.779Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.092 ms
+2021-04-07T15:08:11.725Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 2.948 ms
+2021-04-07T15:08:16.728Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 3.580 ms
+2021-04-07T15:08:21.730Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 3.505 ms
+2021-04-07T15:08:26.732Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.996 ms
+2021-04-07T15:08:31.732Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.908 ms
+2021-04-07T15:08:36.735Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.988 ms
+2021-04-07T15:08:41.739Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.234 ms
+2021-04-07T15:08:46.742Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.941 ms
+2021-04-07T15:08:51.746Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 2.634 ms
+2021-04-07T15:08:56.746Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.092 ms
+2021-04-07T15:09:01.749Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.926 ms
+2021-04-07T15:09:06.754Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.043 ms
+2021-04-07T15:09:09.184Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.086 ms
+2021-04-07T15:09:15.077Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.028 ms
+2021-04-07T15:09:20.078Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.860 ms
+2021-04-07T15:09:25.081Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.915 ms
+2021-04-07T15:09:30.087Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.930 ms
+2021-04-07T15:09:35.087Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.825 ms
+2021-04-07T15:09:40.091Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.933 ms
+2021-04-07T15:09:45.095Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 3.363 ms
+2021-04-07T15:09:50.094Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.962 ms
+2021-04-07T15:09:55.095Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.777 ms
+2021-04-07T15:10:00.095Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.929 ms
+2021-04-07T15:10:05.128Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 31.093 ms
+2021-04-07T15:10:10.098Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.914 ms
+2021-04-07T15:10:14.555Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.473 ms
+2021-04-07T15:10:18.952Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 3.576 ms
+2021-04-07T16:15:43.919Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 7.850 ms
+2021-04-07T16:19:45.858Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 6.285 ms
+2021-04-07T16:20:07.839Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 3.932 ms
+2021-04-07T16:20:18.666Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.851 ms
+2021-04-07T16:26:01.262Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 3.274 ms
+2021-04-07T16:26:05.349Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.981 ms
+2021-04-07T16:26:11.394Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.918 ms
+2021-04-07T16:26:16.392Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.533 ms
+2021-04-07T16:26:21.395Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.868 ms
+2021-04-07T16:26:26.394Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.046 ms
+2021-04-07T16:26:31.393Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.906 ms
+2021-04-07T16:26:36.397Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 3.386 ms
+2021-04-07T16:26:41.410Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.911 ms
+2021-04-07T16:26:46.404Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.859 ms
+2021-04-07T16:26:51.411Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.876 ms
+2021-04-07T16:26:56.424Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 2.178 ms
+2021-04-07T16:27:01.416Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.962 ms
+2021-04-07T16:27:06.421Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.844 ms
+2021-04-07T16:27:11.423Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.885 ms
+2021-04-07T16:27:16.423Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.081 ms
+2021-04-07T16:27:21.424Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.953 ms
+2021-04-07T16:27:26.431Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.941 ms
+2021-04-07T16:27:31.433Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.008 ms
+2021-04-07T16:27:36.435Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.015 ms
+2021-04-07T16:27:41.447Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 10.205 ms
+2021-04-07T16:27:46.442Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.891 ms
+2021-04-07T16:27:51.441Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.987 ms
+2021-04-07T16:27:56.445Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.898 ms
+2021-04-07T16:28:03.748Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.156 ms
+2021-04-07T16:28:09.715Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.894 ms
+2021-04-07T16:28:14.716Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 2.701 ms
+2021-04-07T16:28:19.718Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 2.109 ms
+2021-04-07T16:28:24.720Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.003 ms
+2021-04-07T16:28:29.730Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.330 ms
+2021-04-07T16:28:34.728Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.117 ms
+2021-04-07T16:28:39.730Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.040 ms
+2021-04-07T16:28:44.732Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.995 ms
+2021-04-07T16:28:49.732Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.849 ms
+2021-04-07T16:28:54.733Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.861 ms
+2021-04-07T16:28:59.736Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.863 ms
+2021-04-07T16:29:04.735Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.839 ms
+2021-04-07T16:29:09.741Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.840 ms
+2021-04-07T16:29:14.739Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.960 ms
+2021-04-07T16:29:19.741Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.903 ms
+2021-04-07T16:29:24.744Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.873 ms
+2021-04-07T16:29:29.752Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 4.008 ms
+2021-04-07T16:29:34.756Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 3.792 ms
+2021-04-07T16:29:39.755Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.064 ms
+2021-04-07T16:29:44.757Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.957 ms
+2021-04-07T16:29:49.765Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.054 ms
+2021-04-07T16:29:54.765Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.898 ms
+2021-04-07T16:29:59.769Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.911 ms
+2021-04-07T16:30:04.768Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.906 ms
+2021-04-07T16:30:09.773Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.912 ms
+2021-04-07T16:30:14.779Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.880 ms
+2021-04-07T16:30:19.783Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.032 ms
+2021-04-07T16:30:21.994Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 0.965 ms
+2021-04-07T16:32:01.209Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.212 ms
+2021-04-07T17:13:41.877Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 9.030 ms
+2021-04-07T23:44:42.157Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 453.956 ms

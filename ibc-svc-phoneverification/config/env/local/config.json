@@ -1,0 +1,56 @@
+{
+  "db": {
+    "connection": "mongodb+srv://ibc_auth_dev_user:zIIiaQlPBnWf7x6X@cluster0.qqrfe.mongodb.net/ibc_dev?retryWrites=true&w=majority"
+  },
+  "cors": {
+    "origin": ["http://localhost:8080"],
+    "methods": ["GET", "PUT", "POST", "PATCH", "DELETE"],
+    "allowedHeaders": ["Content-Type", "Authorization", "sessionId"]
+  },
+  "log": {
+    "console": {
+      "enabled": true,
+      "level": "debug"
+    },
+    "file": {
+      "enabled": true,
+      "filename": "../%DATE%-ibcSvcPhoneVerification.log",
+      "level": "info",
+      "datePattern": "YYYY-MM-DD"
+    }
+  },
+  "cache": {
+    "identifer": "ibc:sonic",
+    "connection": {
+      "host": "127.0.0.1",
+      "port": 6379,
+      "options": {
+        "db": 1
+      }
+    },
+    "stores": {
+      "users": {
+        "identifier": "users",
+        "policy": {
+          "expire": 28800
+        }
+      },
+      "phone_verification": {
+        "identifier": "phone_verification",
+        "policy": {
+          "expire": 3600
+        }
+      }
+    }
+  },
+  "jwt": {
+    "issuer": "iBC_SONIC_2021_INFINITY",
+    "secretOrKey": "iBC_SONIC_221_AJFDBNAJSDAJSD"
+  },
+  "secrets": {
+    "twilio": {
+      "TWILLIO_ACCOUNT_SSID": "AC2eee9d2fafa59aa8751561dee2804fd0",
+      "TWILLIO_ACCOUNT_AUTH_TOKEN": "f27b1b27e699209516aead379e79361d"
+    }
+  }
+}

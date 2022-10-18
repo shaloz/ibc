@@ -1,0 +1,4 @@
+2021-04-08T21:55:58.209Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 776.862 ms
+2021-04-08T21:56:01.752Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 1.088 ms
+2021-04-08T21:59:39.816Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 5.874 ms
+2021-04-08T22:19:30.100Z - info: Request: ::ffff:127.0.0.1 606dc5614e49f55b46f9ba3d HTTP/1.1 GET /ibeautyconnect/v1/api/user/get_details - 200 7.713 ms
